@@ -1,0 +1,14 @@
+{
+    "es":{
+        "pal":"Palabra",
+        "limpia":"Limpiar",
+        "cambio":"Cambiar",
+        "valida":"Validar"
+    },
+    "en":{
+        "pal":"Word",
+        "limpia":"Clean up",
+        "cambio":"Change",
+        "valida":"Validate"
+    }
+}
